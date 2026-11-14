@@ -1,5 +1,10 @@
 # Changelog
 
+### Unreleased - Citation metadata
+
+* Minor change.
+* Add `CITATION.cff` metadata for citing this repository fork.
+
 ### 22.0.0 - [69](https://github.com/digitalaotearoa/openfisca-aotearoa/pull/64)
 
 * Tax and benefit system evolution.
